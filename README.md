@@ -65,6 +65,11 @@ With the setup complete, you're ready to run the script and generate your half-y
 ```
 python generate_half_year_playlists.py
 ```
+
+When using a new scope for your Spotify Client-ID for the first time, you'll be prompted to authorize access to your Spotify account via an OAuth flow:
+- A web browser will automatically open, directing you to log in to Spotify and authorize the application.
+- This process grants the script the necessary permissions to access your Spotify data and create playlists on your behalf.
+
 ---
 ### Sharing Your Playlists
 If you like your new playlists and would like to share them, feel free to tag me on X @_genesisdayrit, I would love to hear about them!
