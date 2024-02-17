@@ -69,7 +69,13 @@ When using a new scope for your Spotify Client-ID for the first time, you'll be 
 - A web browser will automatically open, directing you to log in to Spotify and authorize the application.
 - This process grants the script the necessary permissions to access your Spotify data and create playlists on your behalf.
 
+After you authorize the app, the script will take a few minutes to run. You can observe progress in your console after running the script. 
+
+Once completed, enjoy your new playlists in your Spotify account!
+
 ---
+
+
 ### Sharing Your Playlists
 If you like your new playlists and would like to share them, feel free to tag me on X @_genesisdayrit, I would love to hear about them!
 
