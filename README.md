@@ -75,7 +75,6 @@ Once completed, enjoy your new playlists in your Spotify account!
 
 ---
 
-
 ### Sharing Your Playlists
 If you like your new playlists and would like to share them, feel free to tag me on X @_genesisdayrit, I would love to hear about them!
 
