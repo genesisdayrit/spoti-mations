@@ -24,21 +24,20 @@ To use this script, you'll need to perform a few setup steps. This guide will wa
 ### Installation
 1. **Clone the repository**
 
-```sh
+```
 git clone https://github.com/genesisdayrit/spotimations.git
-cd spotimations
 ```
 
 2. **Set up a virtual environment (optional but recommended)**
 
-```sh copy code
+```
 python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate
 ```
 
 3. **Install the required Python packages**
 
-``` sh copy code
+```
 pip install -r requirements.txt
 ```
 
