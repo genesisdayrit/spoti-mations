@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 
 ## **Obtain Spotify API Credentials**
-1. Go to the Spotify Developer Dashboard.
+1. Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications).
 2. Log in with your Spotify account.
 3. Click "Create an App" and follow the prompts to create your application.
 4. Once created, you'll find your Client ID and Client Secret on the app's dashboard.
