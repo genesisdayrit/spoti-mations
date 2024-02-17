@@ -79,9 +79,9 @@ Once completed, enjoy your new playlists in your Spotify account!
 If you like your new playlists and would like to share them, feel free to tag me on X @_genesisdayrit, I would love to hear about them!
 
 ### Contributing
-Any further contributions welcome! Instructions on forking the project are below.
+Any further contributions welcome, instructions on forking the project are below:
 
-#### Forking the Project
+##### Forking the Project
 - Create your Feature Branch (git checkout -b feature/YourFeature)
 - Commit your Changes (git commit -m 'Add YourFeature')
 - Push to the Branch (git push origin feature/YourFeature)
