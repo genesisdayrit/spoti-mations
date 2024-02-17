@@ -22,10 +22,11 @@ To use this script, you'll need to perform a few setup steps. This guide will wa
 - Spotify Developer credentials (Client ID and Client Secret)
 
 ### Installation
-1. **Clone the repository**
+1. **Clone the repository** and then navigate to the project root.
 
 ```
 git clone https://github.com/genesisdayrit/spotimations.git
+cd spotimations
 ```
 
 2. **Set up a virtual environment (optional but recommended)**
