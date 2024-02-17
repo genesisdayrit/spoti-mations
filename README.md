@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ## **Obtain Spotify API Credentials**
 1. Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications).
 2. Log in with your Spotify account.
-3. Click "Create an App" and follow the prompts to create your application.
+3. Click "Create an App" and follow the prompts to create your application. You can give your application any name or simply "my-app"
 4. Once created, you'll find your Client ID and Client Secret on the app's dashboard.
 5. Set up a Redirect URI in the app settings (e.g., http://localhost:8888/callback). This URI is where Spotify will redirect to after successful authentication.
 6. Follow the instructions below to setup your .env file
