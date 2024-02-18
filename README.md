@@ -79,7 +79,7 @@ Once completed, enjoy your new playlists in your Spotify account!
 ---
 
 ### Sharing Your Playlists
-If you like your new playlists and would like to share them, feel free to tag me on X @_genesisdayrit, I would love to hear about them!
+If you like your new playlists and would like to share them, feel free to tag or message me on X [@_genesisdayrit](https://twitter.com/_genesisdayrit), I would love to hear about them!
 
 ### Contributing
 Any further contributions welcome, instructions on forking the project are below:
