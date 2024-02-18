@@ -6,7 +6,7 @@
 
 Spotify has been around since 2006 and many listeners have now been on the platform for more than 10+ years.
 
-I whipped up this half-year-playlist-generator because I thought it would be cool to catalog all my music I've saved in Spotify into half-years to more easily revisit music I was listening to in different periods of my life.
+I whipped up this half-year-playlist-generator because I thought it would be cool to catalog all my music I've saved in Spotify to more easily revisit music I was listening to in different periods of my life.
 
 You can see example of the output from this script on my Spotify profile [here](https://open.spotify.com/user/dayritg?si=bd153e475e8441d7).
 
