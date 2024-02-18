@@ -65,7 +65,7 @@ SPOTIFY_REDIRECT_URI=http://localhost:8888/callback
 With the setup complete, you're ready to run the script and generate your half-year playlists:
 
 ```
-python generate_half_year_playlists.py
+python create_half_year_playlists.py
 ```
 
 When using a new scope for your Spotify Client-ID for the first time, you'll be prompted to authorize access to your Spotify account via an OAuth flow:
