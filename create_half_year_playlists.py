@@ -63,7 +63,7 @@ def create_and_distribute_playlists(tracks, min_date):
         added_date = datetime.strptime(added_at, "%Y-%m-%dT%H:%M:%SZ")
         year = added_date.year
         half = '1/2' if added_date.month <= 6 else '2/2'
-        playlist_name = f"{year} - {half} test"
+        playlist_name = f"{year} - {half}"
         playlist_track_map[playlist_name].append(track['track']['uri'])
 
     # Create playlists and add tracks
