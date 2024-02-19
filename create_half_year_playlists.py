@@ -16,7 +16,7 @@ redirect_uri = os.getenv('SPOTIFY_REDIRECT_URI')
 # Scope needed for accessing saved tracks and managing playlists
 scope = "user-library-read playlist-modify-public"
 
-# Set up Spotipy with user authorization
+# Set up Spotipy authorization
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=client_id,
                                                client_secret=client_secret,
                                                redirect_uri=redirect_uri,
@@ -98,7 +98,6 @@ def find_playlist_by_name(name, user_id):
             break
     return None
 
-# Main process
 if __name__ == "__main__":
     saved_tracks, earliest_date = fetch_saved_tracks_and_earliest_date()
     create_and_distribute_playlists(saved_tracks, earliest_date)
