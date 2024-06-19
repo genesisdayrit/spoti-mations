@@ -62,7 +62,7 @@ SPOTIFY_REDIRECT_URI=http://localhost:8888/callback
 ```
 
 ## **Running the Script** 
-With the setup complete, you're ready to run the script and generate your half-year playlists:
+With the setup complete, you're ready to run the script and generate your half-year playlists in your terminal:
 
 ```
 python create_half_year_playlists.py
